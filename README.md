@@ -1,16 +1,13 @@
 # semi_ecommerce_app
 
-A new Flutter project.
+Designed the project architecture
+Implemented dependency injection
+Utilized state management using Cubit
+Created custom navigation
+Integrated an HTTP client (using Dio and its interceptors)
+Developed various screens including splash, onboarding, authentication, login, sign-up, main screen, home screen, and a drawer.
+Hint: You can sign in directly with this email (ahmed1995@gmail.com, password: 123456).
+I've also enabled notifications with Firebase and added your email to the system.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I made a quick overview for my project on this video:
+https://drive.google.com/drive/folders/1ewOLMnEq7ltT7awS39gOcBdyU23gnOUk?usp=sharing
