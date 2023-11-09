@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563401528693",
+    "project_id": "semiecommerce-d2df3",
+    "storage_bucket": "semiecommerce-d2df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563401528693:android:5e289c5f1f0b686013ef3c",
+        "android_client_info": {
+          "package_name": "com.example.semi_ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7LKPTsEZ-sylysP03LPG0BKQ_1zTatc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
